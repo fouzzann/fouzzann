@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Fouzan</h1>
 <h3 align="center">A passionate flutter developer</h3>
 <img align ="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1d42d8178614ebf9d0895fab87d7c46f3a91c134c575f026b8e1eba0c6167c75/68747470733a2f2f7777772e6976656e7472612e636f6d2f6173736574732f696d616765732f62672f6261636b2d656e642d646576656c6f7065722e676966">
